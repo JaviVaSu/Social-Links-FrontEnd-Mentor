@@ -25,7 +25,6 @@ body{
     flex-direction: column;
     width: 80vw;
     row-gap: 10px;
-    background-color: var(--Dark-Grey);
 }
 
 .picture_profile img{
@@ -59,7 +58,7 @@ body{
     text-align: center;
 }
 
-.portafolio .enlaces ul{
+.portafolio .enlaces{
     display: flex;
     flex-direction: column;
     align-items: center;
